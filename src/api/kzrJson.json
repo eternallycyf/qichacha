@@ -1,0 +1,158 @@
+{
+    "data": {
+        "totalPercent": 0.017694,
+        "nodes": [
+            {
+                "uid": "002381405b214277a4facc994c2f3592",
+                "id": 1,
+                "isKey": "true",
+                "name": "董明珠",
+                "type": "P"
+            },
+            {
+                "uid": "077337a4-5031-4acd-bb05-4ca83559f9a4",
+                "id": 2,
+                "isKey": "false",
+                "name": "珠海格臻投资管理合伙企业（有限合伙）",
+                "type": "E"
+            },
+            {
+                "uid": "20123a9f-6499-453d-b42e-debc2e330517",
+                "id": 3,
+                "isKey": "false",
+                "name": "珠海明骏投资合伙企业（有限合伙）",
+                "type": "E"
+            },
+            {
+                "uid": "6d27412b-f6b0-4dfa-a1bc-6290ee05014b",
+                "id": 4,
+                "isKey": "false",
+                "name": "珠海毓秀投资管理有限公司",
+                "type": "E"
+            },
+            {
+                "uid": "9eda1ceb-4d50-4b02-9ef0-ad1437d24f75",
+                "id": 5,
+                "isKey": "true",
+                "name": "珠海格力电器股份有限公司",
+                "type": "E"
+            },
+            {
+                "uid": "d45e7f42-bd67-4521-96c0-5d791dc0481d",
+                "id": 6,
+                "isKey": "false",
+                "name": "珠海贤盈股权投资合伙企业（有限合伙）",
+                "type": "E"
+            }
+        ],
+        "links": [
+            {
+                "targetId": 2,
+                "properties": {
+                    "relationPercentSuspected": "0.954815",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "执行事务合伙人",
+                    "relationPercent": "0.954815"
+                },
+                "type": "SH",
+                "sourceId": 1
+            },
+            {
+                "targetId": 5,
+                "properties": {
+                    "relationPercentSuspected": "0.0079",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.0079"
+                },
+                "type": "SH",
+                "sourceId": 1
+            },
+            {
+                "targetId": 3,
+                "properties": {
+                    "relationPercentSuspected": "0.063794",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "0",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.063794"
+                },
+                "type": "SH",
+                "sourceId": 2
+            },
+            {
+                "targetId": 4,
+                "properties": {
+                    "relationPercentSuspected": "0.41",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.41"
+                },
+                "type": "SH",
+                "sourceId": 2
+            },
+            {
+                "targetId": 6,
+                "properties": {
+                    "relationPercentSuspected": "0.20297",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "0",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.20297"
+                },
+                "type": "SH",
+                "sourceId": 2
+            },
+            {
+                "targetId": 5,
+                "properties": {
+                    "relationPercentSuspected": "0.1602",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.1602"
+                },
+                "type": "SH",
+                "sourceId": 3
+            },
+            {
+                "targetId": 6,
+                "properties": {
+                    "relationPercentSuspected": "0.50495",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "执行事务合伙人",
+                    "relationPercent": "0.50495"
+                },
+                "type": "SH",
+                "sourceId": 4
+            },
+            {
+                "targetId": 3,
+                "properties": {
+                    "relationPercentSuspected": "0.000567",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "执行事务合伙人",
+                    "relationPercent": "0.000567"
+                },
+                "type": "SH",
+                "sourceId": 6
+            }
+        ]
+    },
+    "sign": "508b205dbac4034db4314308ba7cefa1",
+    "status": "200",
+    "message": "操作成功"
+}

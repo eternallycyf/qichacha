@@ -1,0 +1,142 @@
+@import './base.css';
+@import './iconfont/iconfont.css';
+
+#app {
+  width: 100vw;
+  height: 100vh;
+  overflow-y: hidden;
+  font-weight: normal;
+}
+ul li {
+  list-style-type: none;
+}
+.container:before,
+.clearfix::before {
+  display: table;
+  content: " ";
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* user agent stylesheet */
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0;
+}
+html, body {
+    height: auto;
+    margin: 0;
+    font-size: 14px;
+    background: #F7F7F7;
+    min-width: 1250px;
+    font-family: "Microsoft YaHei", Arial;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5714;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #fff;
+    overflow: hidden;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    --antd-wave-shadow-color: #1890ff;
+}
+.container:before, .clearfix::before {
+    display: table;
+    content: " ";
+}
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical > .btn-group:before, .btn-group-vertical > .btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-header:before, .modal-header:after, .modal-footer:before, .modal-footer:after {
+    display: table;
+    content: " ";
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.container:before, .clearfix::before {
+    display: table;
+    content: " ";
+}
+.container:after, .clearfix:after {
+    clear: both;
+    display: table;
+    content: " ";
+}
+a,
+.green {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: transparent;
+}
+/*滚动条凹槽的颜色，还可以设置边框属性 */
+::-webkit-scrollbar-track-piece {
+	background-color:rgba(50,50,50,0.1);
+	-webkit-border-radius: 2em;
+	-moz-border-radius: 2em;
+	border-radius: 2em;
+}
+/*滚动条的宽度*/
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+/*滚动条的设置*/
+::-webkit-scrollbar-thumb {
+	background-color:rgba(50,50,50,0.25);
+	background-clip:padding-box;
+	-webkit-border-radius: 2em;
+	-moz-border-radius: 2em;
+	border-radius: 2em;
+}
+/*滚动条鼠标移上去*/
+::-webkit-scrollbar-thumb:hover {
+	background-color:rgba(50,50,50,0.5);
+}
+/*横竖滚动条都有的时候，右下角有一块白色的*/
+*::-webkit-scrollbar-corner{background: rgba(50,50,50,0.25);}
+
+/* 横向滚动条不显示 */
+.el-table--scrollable-y .el-table__body-wrapper {
+  overflow-y: hidden;
+}
+.btn-default {
+  border: 1px solid #d6d6d6 !important;
+  color: #333 !important;
+  background-color: #fff !important;
+}
+/* 
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */

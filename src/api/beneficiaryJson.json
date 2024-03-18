@@ -1,0 +1,96 @@
+{
+    "data": {
+        "totalPercent": 0.778022,
+        "nodes": [
+            {
+                "uid": "02ad6587897a976a793aa72ead924a47",
+                "id": 1,
+                "isKey": "true",
+                "name": "雷军",
+                "type": "P"
+            },
+            {
+                "uid": "534472fd-7d53-4958-8132-d6a6242423d8",
+                "id": 2,
+                "isKey": "true",
+                "name": "小米科技有限责任公司",
+                "type": "E"
+            },
+            {
+                "uid": "02ad6587897a976a793aa72ead924a48",
+                "id": 3,
+                "name": "黎万强",
+                "type": "P"
+            },
+            {
+                "uid": "02ad6587897a976a793aa72ead924a49",
+                "id": 4,
+                "name": "洪峰",
+                "type": "P"
+            },
+            {
+                "uid": "02ad6587897a976a793aa72ead924a471",
+                "id": 5,
+                "name": "刘德",
+                "type": "P"
+            }
+        ],
+        "links": [
+            {
+                "targetId": 2,
+                "properties": {
+                    "relationPercentSuspected": "0.778022",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.778022"
+                },
+                "type": "SH",
+                "sourceId": 1
+            },
+            {
+                "targetId": 2,
+                "properties": {
+                    "relationPercentSuspected": "0.101213",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.101213"
+                },
+                "type": "SH",
+                "sourceId": 3
+            },
+            {
+                "targetId": 2,
+                "properties": {
+                    "relationPercentSuspected": "0.100665",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.100665"
+                },
+                "type": "SH",
+                "sourceId": 4
+            },
+            {
+                "targetId": 2,
+                "properties": {
+                    "relationPercentSuspected": "0.0201",
+                    "relationDescDetail": "工商股东",
+                    "relationAmount": "",
+                    "isMainPath": "1",
+                    "relationLrDescDetail": "",
+                    "relationPercent": "0.0201"
+                },
+                "type": "SH",
+                "sourceId": 5
+            }
+        ]
+    },
+    "sign": "c9e1313b66e97a297974116c9077bf34",
+    "status": "200",
+    "message": "操作成功"
+}

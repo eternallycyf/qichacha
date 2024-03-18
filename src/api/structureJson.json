@@ -1,0 +1,253 @@
+{
+    "data": {
+        "actual_controller": {
+            "name": "邱昆",
+            "percent": "19.27%"
+        },
+        "equity_structure": {
+            "children": [
+                {
+                    "amount": "994.04万股",
+                    "children": [],
+                    "count": 0,
+                    "eid": "90fe3383f8333a3190a0fda5f4ecd621",
+                    "level": "1",
+                    "name": "邱昆",
+                    "percent": "19.07%",
+                    "sh_type": "主要股东(新三板)",
+                    "short_name": "邱昆",
+                    "type": "P",
+                    "isKey": true
+                },
+                {
+                    "amount": "660.06万股",
+                    "children": [],
+                    "count": 0,
+                    "eid": "25c3c3b454fc09ee08a5a8ad23e675b2",
+                    "level": "1",
+                    "name": "解军",
+                    "percent": "12.67%",
+                    "sh_type": "主要股东(新三板)",
+                    "short_name": "解军",
+                    "type": "P"
+                },
+                {
+                    "amount": "530.0万股",
+                    "children": [],
+                    "count": 0,
+                    "eid": "2398d75a110127d9e3f5ea0c4cd44f6e",
+                    "level": "1",
+                    "name": "鲍永明",
+                    "percent": "10.17%",
+                    "sh_type": "主要股东(新三板)",
+                    "short_name": "鲍永明",
+                    "type": "P"
+                },
+                {
+                    "amount": "500.8149万股",
+                    "children": [],
+                    "count": 0,
+                    "eid": "05765a440552db50078932e7ce2a2b05",
+                    "level": "1",
+                    "name": "付美",
+                    "percent": "9.61%",
+                    "sh_type": "主要股东(新三板)",
+                    "short_name": "付美",
+                    "type": "P"
+                },
+                {
+                    "amount": "429.0万股",
+                    "children": [
+                        {
+                            "amount": "4150.0万元",
+                            "children": [
+                                {
+                                    "amount": "112135.700743万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "46c897da-896f-432c-90e4-d5f5d1c89832",
+                                    "level": "3",
+                                    "name": "四川宏达（集团）有限公司",
+                                    "percent": "32.04%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "宏达",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "105886.990367万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "f223d195-3af1-47cc-ac17-4165c3721e7c",
+                                    "level": "3",
+                                    "name": "中海信托股份有限公司",
+                                    "percent": "30.25%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "中海信托",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "77561.780565万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "12d0b1b7-524e-47ac-a7f5-86e3e6b5dbdb",
+                                    "level": "3",
+                                    "name": "四川宏达股份有限公司",
+                                    "percent": "22.16%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "宏达",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "17647.781728万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "972508c8-f440-46c7-8e48-60351295e0f5",
+                                    "level": "3",
+                                    "name": "四川濠吉食品集团有限公司",
+                                    "percent": "5.04%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "濠吉食品",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "13452.603584万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "4c7c94fb-95a5-47f0-945d-ecc7c58112fe",
+                                    "level": "3",
+                                    "name": "汇源集团有限公司",
+                                    "percent": "3.84%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "汇源集团有限公司",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "12491.830457万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "b586a733-339a-4f2e-a02d-aa8de5ef3830",
+                                    "level": "3",
+                                    "name": "中国铁路成都局集团有限公司",
+                                    "percent": "3.57%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "中国铁路成都局集",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "4873.363842万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "b31c698a-13d9-41f5-b9b2-57e83a0bdde2",
+                                    "level": "3",
+                                    "name": "四川省投资集团有限责任公司",
+                                    "percent": "1.39%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "四川省投资",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "4100.176412万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "33f1a96e-7ef7-4397-929b-d38bad6cddba",
+                                    "level": "3",
+                                    "name": "四川成渝高速公路股份有限公司",
+                                    "percent": "1.17%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "成渝高速公路",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "1467.900494万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "9da92d77-c10d-44a4-b643-4373e27100ab",
+                                    "level": "3",
+                                    "name": "中铁八局集团有限公司",
+                                    "percent": "0.42%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "中铁八局",
+                                    "type": "E"
+                                },
+                                {
+                                    "amount": "381.871808万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "1e7111ec-6885-4772-ae73-1fee1b6d48f1",
+                                    "level": "3",
+                                    "name": "中国烟草总公司四川省公司",
+                                    "percent": "0.11%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "烟草",
+                                    "type": "E"
+                                }
+                            ],
+                            "count": 10,
+                            "eid": "57782787-4f89-4858-8a5c-da5612ce4c35",
+                            "level": "2",
+                            "name": "四川信托有限公司",
+                            "percent": "99.76%",
+                            "sh_type": "工商股东",
+                            "short_name": "四川信托有限公司",
+                            "type": "E"
+                        }
+                    ],
+                    "count": 15,
+                    "eid": "7407ca36-b4f0-4409-8668-8c597c6aff99",
+                    "level": "1",
+                    "name": "成都隼睿投资合伙企业（有限合伙）",
+                    "percent": "8.23%",
+                    "sh_type": "主要股东(新三板)",
+                    "short_name": "隼睿投资",
+                    "type": "E"
+                },
+                {
+                    "amount": "353.43万股",
+                    "children": [
+                        {
+                            "amount": "280.0万元",
+                            "children": [
+                                {
+                                    "amount": "145.0万元",
+                                    "children": [],
+                                    "count": 0,
+                                    "eid": "4af45b0c-9183-4232-8705-032c96c3bc87",
+                                    "level": "3",
+                                    "name": "四川省国投资产托管有限责任公司",
+                                    "percent": "100%",
+                                    "sh_type": "工商股东",
+                                    "short_name": "国投资产托管",
+                                    "type": "E"
+                                }
+                            ],
+                            "count": 1,
+                            "eid": "e620cec9-63ac-40f2-b896-197100981938",
+                            "level": "2",
+                            "name": "成都成电物业管理有限公司",
+                            "percent": "100%",
+                            "sh_type": "工商股东",
+                            "short_name": "成电物业管理",
+                            "type": "E"
+                        }
+                    ],
+                    "count": 2,
+                    "eid": "91d1e05c-0a42-457e-a7ec-d9cf94f4ad4f",
+                    "level": "1",
+                    "name": "四川成电华栋实业有限公司",
+                    "percent": "6.78%",
+                    "sh_type": "主要股东(新三板)",
+                    "short_name": "成电华栋实业",
+                    "type": "E"
+                }
+            ],
+            "count": 47,
+            "eid": "2c1ae58d-6772-41e0-854e-855b9f77efae",
+            "level": "0",
+            "name": "成都成电光信科技股份有限公司",
+            "short_name": "成电光信科技"
+        }
+    },
+    "message": "操作成功",
+    "sign": "2c0af915c4ee8bc50f46df386d0f0621",
+    "status": "200"
+}

@@ -1,0 +1,260 @@
+{
+  "status": "200",
+  "message": "操作成功",
+  "sign": "848ce1e726b92ab8fb85166cff935afa",
+  "data": {
+    "nodes": [
+      {
+        "eid": "9eda1ceb-4d50-4b02-9ef0-ad1437d24f75",
+        "id": 529938720,
+        "type": "E",
+        "isKey": true,
+        "name": "珠海格力电器股份有限公司"
+      },
+      {
+        "eid": "002381405b214277a4facc994c2f3592",
+        "id": 532076586,
+        "type": "P",
+        "isKey": true,
+        "name": "董明珠"
+      },
+      {
+        "eid": "9a2e1153-cbbe-4caf-bd9b-861d80cc9487",
+        "id": 58217876,
+        "type": "E",
+        "isKey": false,
+        "name": "格力电器（石家庄）有限公司"
+      },
+      {
+        "eid": "d9d94e86-7b6a-4aee-b8ab-3a0456fde2c0",
+        "id": 198706154,
+        "type": "E",
+        "isKey": false,
+        "name": "珠海格力智能装备有限公司"
+      },
+      {
+        "eid": "eb1f120d-b712-4af1-98ab-5e54b8673721",
+        "id": 90252751,
+        "type": "E",
+        "isKey": false,
+        "name": "天津格力新晖医疗装备有限公司"
+      },
+      {
+        "eid": "e7370a84-b8f4-4ab5-b0f8-83c1e54a9270",
+        "id": 295736871,
+        "type": "E",
+        "isKey": false,
+        "name": "格力电器（武汉）有限公司"
+      },
+      {
+        "eid": "a2cf949e-7a59-436f-9d8e-0af80c8f55e6",
+        "id": 227710524,
+        "type": "E",
+        "isKey": false,
+        "name": "珠海联云科技有限公司"
+      },
+      {
+        "eid": "c41b7ee7-f1dc-459f-b278-e6a597a2bf47",
+        "id": 446108315,
+        "type": "E",
+        "isKey": false,
+        "name": "珠海格力运输有限公司"
+      },
+      {
+        "eid": "d30592fd-6f00-4257-82c6-b300e9c4ef89",
+        "id": 198557276,
+        "type": "E",
+        "isKey": false,
+        "name": "珠海格力电工有限公司"
+      },
+      {
+        "eid": "ba7a8c9d-5380-48a4-899b-a4094475b3bc",
+        "id": 28714142,
+        "type": "E",
+        "isKey": false,
+        "name": "珠海格力新元电子有限公司"
+      },
+      {
+        "eid": "defeb41d-9f5e-4ef8-89a3-adca5f9e0572",
+        "id": 192772543,
+        "type": "E",
+        "isKey": false,
+        "name": "格力（武安）精密装备制造有限公司"
+      },
+      {
+        "eid": "df20201e-c5e1-48ac-874c-92bd5c020da4",
+        "id": 265328212,
+        "type": "E",
+        "isKey": false,
+        "name": "天津绿色再生资源利用有限公司"
+      },
+      {
+        "eid": "b0897bab-42a3-4070-a6f8-dce6809538dc",
+        "id": 373121291,
+        "type": "E",
+        "isKey": false,
+        "name": "珠海零边界集成电路有限公司"
+      },
+      {
+        "eid": "adad4131-3644-4959-8efd-e31ac6185224",
+        "id": 58659104,
+        "type": "E",
+        "isKey": false,
+        "name": "格力钛新能源股份有限公司"
+      },
+      {
+        "eid": "c734d5eb-92e9-4ac8-bf9b-5efbafff0df2",
+        "id": 252709922,
+        "type": "E",
+        "isKey": false,
+        "name": "格力电器（合肥）有限公司"
+      }
+    ],
+    "links": [
+      {
+        "source": 532076586,
+        "target": 529938720,
+        "label": "股东，法定代表人，董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 58217876,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 58217876,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 198706154,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 198706154,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 90252751,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 90252751,
+        "label": "董监高，法定代表人"
+      },
+      {
+        "source": 529938720,
+        "target": 295736871,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 295736871,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 227710524,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 227710524,
+        "label": "法定代表人，董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 446108315,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 446108315,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 198557276,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 198557276,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 28714142,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 28714142,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 192772543,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 192772543,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 265328212,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 265328212,
+        "label": "历史董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 373121291,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 373121291,
+        "label": "法定代表人，董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 58659104,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 58659104,
+        "label": "股东，董监高"
+      },
+      {
+        "source": 529938720,
+        "target": 252709922,
+        "label": "股东"
+      },
+      {
+        "source": 532076586,
+        "target": 252709922,
+        "label": "历史董监高"
+      }
+    ],
+    "longestPathIds": [
+      529938720,
+      252709922,
+      532076586
+    ],
+    "shortestPathIds": [
+      529938720,
+      532076586
+    ]
+  }
+}

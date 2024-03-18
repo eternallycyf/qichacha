@@ -1,0 +1,2868 @@
+{
+    "Status": 200,
+    "Message": "OK",
+    "data": {
+        "Id": "9cce0780ab7644008b73bc2120479d31",
+        "name": "小米科技有限责任公司",
+        "p_trees": [
+            {
+                "Nodetype": "C",
+                "type": "Company",
+                "Direction": "OUT",
+                "Title": "母公司/控股股东",
+                "Operation": "控制",
+                "Desc": "母公司/控股股东",
+                "Abstract": "直接持有50%及以上股份的股东",
+                "Total": 1,
+                "Collection": [
+                    {
+                        "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                        "name": "雷军",
+                        "HasImage": true,
+                        "Path": [
+                            [
+                                {
+                                    "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                    "name": "雷军"
+                                },
+                                {
+                                    "Direction": "IN",
+                                    "Operation": "控制",
+                                    "Reason": "77.80%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "children": [
+                    {
+                        "Nodetype": "C-HE",
+                        "type": "Company",
+                        "Direction": "OUT",
+                        "Title": "受控企业",
+                        "Operation": "控制",
+                        "Desc": "母公司的控股企业",
+                        "Abstract": "本企业的母公司的控股企业（包括直接或者间接控制）",
+                        "Total": 126,
+                        "Collection": [
+                            {
+                                "Id": "93377c2302ec9d88aaed10e5bd570241",
+                                "name": "天津拾肆米企业管理合伙企业（有限合伙）",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "93377c2302ec9d88aaed10e5bd570241",
+                                            "name": "天津拾肆米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "23.69%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "3ff2f5c25da6b838ad5b84708e2e72fa",
+                                "name": "泸州数科网维技术有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "3ff2f5c25da6b838ad5b84708e2e72fa",
+                                            "name": "泸州数科网维技术有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.54%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                "name": "天津金星创业投资有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "eb2a43ac472b451059c58357bcef8d9e",
+                                "name": "河南金山办公软件有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "eb2a43ac472b451059c58357bcef8d9e",
+                                            "name": "河南金山办公软件有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.14%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "372c753f7d93786a5b626d1bbc823b6f",
+                                "name": "河南数科网维科技有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "372c753f7d93786a5b626d1bbc823b6f",
+                                            "name": "河南数科网维科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.54%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "620a7ec07335bc24b68e028a540249ed",
+                                "name": "广西金山办公软件有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "620a7ec07335bc24b68e028a540249ed",
+                                            "name": "广西金山办公软件有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.14%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8d50cfdfec4430f0cab34d57c265d001",
+                                "name": "小米有品科技有限公司",
+                                "HasImage": true,
+                                "Status": "在业",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8d50cfdfec4430f0cab34d57c265d001",
+                                            "name": "小米有品科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "0.00%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "hbc30819b4c3ba1a8248526d676d300e",
+                                "name": "XIAOMI H.K. LIMITED",
+                                "HasImage": false,
+                                "Status": "",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "hbc30819b4c3ba1a8248526d676d300e",
+                                            "name": "XIAOMI H.K. LIMITED"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "0.00%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "09aba384211cb3bd3e0494649352fce9",
+                                "name": "武汉壹捌壹零企业管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "09aba384211cb3bd3e0494649352fce9",
+                                            "name": "武汉壹捌壹零企业管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "77889e75119621a348adab4be8bddd5a",
+                                "name": "北京小米企业管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "77889e75119621a348adab4be8bddd5a",
+                                            "name": "北京小米企业管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Nodetype": "BP5",
+                "type": "Person",
+                "Direction": "IN",
+                "Title": "直接或间接持股5%及以上的自然人",
+                "Operation": "影响",
+                "Desc": "直接或间接持股5%及以上的自然人",
+                "Abstract": "直接或间接持有本公司5%及以上股份的自然人",
+                "Total": 2,
+                "Collection": [
+                    {
+                        "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                        "name": "黎万强",
+                        "HasImage": true,
+                        "Path": [
+                            [
+                                {
+                                    "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                    "name": "黎万强"
+                                },
+                                {
+                                    "Direction": "IN",
+                                    "Operation": "影响",
+                                    "Reason": "10.12%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "p9f2743c5058af08e2e451e3d099c542",
+                        "name": "洪锋",
+                        "HasImage": true,
+                        "Path": [
+                            [
+                                {
+                                    "Id": "p9f2743c5058af08e2e451e3d099c542",
+                                    "name": "洪锋"
+                                },
+                                {
+                                    "Direction": "IN",
+                                    "Operation": "影响",
+                                    "Reason": "10.07%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "children": [
+                    {
+                        "Nodetype": "BP5-DJGED",
+                        "type": "Company",
+                        "Direction": "OUT",
+                        "Title": "担任董监高的企业",
+                        "Operation": "影响",
+                        "Desc": "直接或间接持股5%及以上的自然人的任职企业",
+                        "Abstract": "直接或间接持有本公司5%及以上股份的自然人在其他企业担任董监高的企业",
+                        "Total": 19,
+                        "Collection": [
+                            {
+                                "Id": "006f4aa686287cb359b449ce6ce347d1",
+                                "name": "四川银米科技有限责任公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "006f4aa686287cb359b449ce6ce347d1",
+                                            "name": "四川银米科技有限责任公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "经理"
+                                        },
+                                        {
+                                            "Id": "p9f2743c5058af08e2e451e3d099c542",
+                                            "name": "洪锋"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.07%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "c17858faa96cdf5291c48d5ddf077215",
+                                "name": "上海山月电子商务有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "c17858faa96cdf5291c48d5ddf077215",
+                                            "name": "上海山月电子商务有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "4acdaf5e031fc214abdb6287e9a9276f",
+                                "name": "重庆融渝科技有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "4acdaf5e031fc214abdb6287e9a9276f",
+                                            "name": "重庆融渝科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "董事兼经理"
+                                        },
+                                        {
+                                            "Id": "p9f2743c5058af08e2e451e3d099c542",
+                                            "name": "洪锋"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.07%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "2ac6a78e4b91885a2656b2a13ebfdb0d",
+                                "name": "上海不杂艺术有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "2ac6a78e4b91885a2656b2a13ebfdb0d",
+                                            "name": "上海不杂艺术有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8dc9a93144781566428b595bb2abbc57",
+                                "name": "重庆小米消费金融有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8dc9a93144781566428b595bb2abbc57",
+                                            "name": "重庆小米消费金融有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "董事长"
+                                        },
+                                        {
+                                            "Id": "p9f2743c5058af08e2e451e3d099c542",
+                                            "name": "洪锋"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.07%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "f579ec5fd6e8d6c2b66ad26a26a2bff6",
+                                "name": "北京云图映画影视传媒有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "f579ec5fd6e8d6c2b66ad26a26a2bff6",
+                                            "name": "北京云图映画影视传媒有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "董事"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "030bd30cc3a75f36b22e80c5d1daab90",
+                                "name": "天津树海管理咨询有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "030bd30cc3a75f36b22e80c5d1daab90",
+                                            "name": "天津树海管理咨询有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "fb9c28e66da9cf101cd174bf27c97b3a",
+                                "name": "捷付睿通股份有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "fb9c28e66da9cf101cd174bf27c97b3a",
+                                            "name": "捷付睿通股份有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "董事"
+                                        },
+                                        {
+                                            "Id": "p9f2743c5058af08e2e451e3d099c542",
+                                            "name": "洪锋"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.07%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "e8a19f1579d1aa730be8ea9d9e6d0e18",
+                                "name": "上海强城星空文化有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "e8a19f1579d1aa730be8ea9d9e6d0e18",
+                                            "name": "上海强城星空文化有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "执行董事"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "h7d639f024445227bcadf84dd3b70a45",
+                                "name": "小米集團",
+                                "HasImage": true,
+                                "Status": "仍注册",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "h7d639f024445227bcadf84dd3b70a45",
+                                            "name": "小米集團"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "高级副总裁"
+                                        },
+                                        {
+                                            "Id": "p9f2743c5058af08e2e451e3d099c542",
+                                            "name": "洪锋"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.07%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Nodetype": "BP5-HE",
+                        "type": "Company",
+                        "Direction": "OUT",
+                        "Title": "受控企业",
+                        "Operation": "控制",
+                        "Desc": "直接或间接持股5%及以上的自然人的控股企业",
+                        "Abstract": "直接或间接持有本公司5%及以上股份的自然人的控股企业（包括直接或者间接控制）",
+                        "Total": 6,
+                        "Collection": [
+                            {
+                                "Id": "c17858faa96cdf5291c48d5ddf077215",
+                                "name": "上海山月电子商务有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "c17858faa96cdf5291c48d5ddf077215",
+                                            "name": "上海山月电子商务有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "2ac6a78e4b91885a2656b2a13ebfdb0d",
+                                "name": "上海不杂艺术有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "2ac6a78e4b91885a2656b2a13ebfdb0d",
+                                            "name": "上海不杂艺术有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "95.00%"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "6e62fda57887baa0909cb79bef96b07c",
+                                "name": "小米影业有限责任公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "6e62fda57887baa0909cb79bef96b07c",
+                                            "name": "小米影业有限责任公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "87.92%"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "030bd30cc3a75f36b22e80c5d1daab90",
+                                "name": "天津树海管理咨询有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "030bd30cc3a75f36b22e80c5d1daab90",
+                                            "name": "天津树海管理咨询有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "80.00%"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "33e17607404769ee18cd72338f4c5bd3",
+                                "name": "北京小米影业投资有限公司",
+                                "HasImage": false,
+                                "Status": "注销",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "33e17607404769ee18cd72338f4c5bd3",
+                                            "name": "北京小米影业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "87.92%"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "58d13249542b2d472781032065a0224b",
+                                "name": "北京小米影业管理有限责任公司",
+                                "HasImage": false,
+                                "Status": "注销",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "58d13249542b2d472781032065a0224b",
+                                            "name": "北京小米影业管理有限责任公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "87.92%"
+                                        },
+                                        {
+                                            "Id": "p8ca4283fb80cf988920545e99aef3a4",
+                                            "name": "黎万强"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.12%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "c_trees": [
+            {
+                "Nodetype": "DJG",
+                "type": "Person",
+                "Direction": "IN",
+                "Title": "董监高",
+                "Operation": "影响",
+                "Desc": "董监高",
+                "Abstract": "本公司的董监高",
+                "Total": 4,
+                "Collection": [
+                    {
+                        "Id": "p4c25ab66114eb92232de453dfcc05c1",
+                        "name": "刘芹",
+                        "HasImage": true,
+                        "Path": [
+                            [
+                                {
+                                    "Id": "p4c25ab66114eb92232de453dfcc05c1",
+                                    "name": "刘芹"
+                                },
+                                {
+                                    "Direction": "IN",
+                                    "Operation": "影响",
+                                    "Reason": "董事"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "p077472cd738bf6c70d757a42c6acaf4",
+                        "name": "林斌",
+                        "HasImage": true,
+                        "Path": [
+                            [
+                                {
+                                    "Id": "p077472cd738bf6c70d757a42c6acaf4",
+                                    "name": "林斌"
+                                },
+                                {
+                                    "Direction": "IN",
+                                    "Operation": "影响",
+                                    "Reason": "董事"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                        "name": "雷军",
+                        "HasImage": true,
+                        "Path": [
+                            [
+                                {
+                                    "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                    "name": "雷军"
+                                },
+                                {
+                                    "Direction": "IN",
+                                    "Operation": "影响",
+                                    "Reason": "董事长,经理"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                        "name": "刘德",
+                        "HasImage": true,
+                        "Path": [
+                            [
+                                {
+                                    "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                    "name": "刘德"
+                                },
+                                {
+                                    "Direction": "IN",
+                                    "Operation": "影响",
+                                    "Reason": "监事"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "children": [
+                    {
+                        "Nodetype": "DJG-DJGED",
+                        "type": "Company",
+                        "Direction": "OUT",
+                        "Title": "担任董监高的企业",
+                        "Operation": "影响",
+                        "Desc": "董监高的任职企业",
+                        "Abstract": "本公司的董监高在其他企业担任董监高的企业",
+                        "Total": 159,
+                        "Collection": [
+                            {
+                                "Id": "031bdd4c30791f7a912bb86c9b258d89",
+                                "name": "上海玄戒技术有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "031bdd4c30791f7a912bb86c9b258d89",
+                                            "name": "上海玄戒技术有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "b34b424fe61535547952e64bc9c40435",
+                                "name": "北京紫麟置业有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "b34b424fe61535547952e64bc9c40435",
+                                            "name": "北京紫麟置业有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "d85e6599c480f04a18ff2f4216067e69",
+                                "name": "广州创达星空科技有限公司",
+                                "HasImage": true,
+                                "Status": "在业",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "d85e6599c480f04a18ff2f4216067e69",
+                                            "name": "广州创达星空科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "董事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                "name": "天津金星创业投资有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8d50cfdfec4430f0cab34d57c265d001",
+                                "name": "小米有品科技有限公司",
+                                "HasImage": true,
+                                "Status": "在业",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8d50cfdfec4430f0cab34d57c265d001",
+                                            "name": "小米有品科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "09aba384211cb3bd3e0494649352fce9",
+                                "name": "武汉壹捌壹零企业管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "09aba384211cb3bd3e0494649352fce9",
+                                            "name": "武汉壹捌壹零企业管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "77889e75119621a348adab4be8bddd5a",
+                                "name": "北京小米企业管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "77889e75119621a348adab4be8bddd5a",
+                                            "name": "北京小米企业管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "909de4a7e7f81e16661d09ce18d2aed0",
+                                "name": "云蚁智联（上海）信息技术有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "909de4a7e7f81e16661d09ce18d2aed0",
+                                            "name": "云蚁智联（上海）信息技术有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "董事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "c38f7bc7bf172cb3b626c6d1dea68d3c",
+                                "name": "武汉顺创股权投资管理有限责任公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "c38f7bc7bf172cb3b626c6d1dea68d3c",
+                                            "name": "武汉顺创股权投资管理有限责任公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "执行董事"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "992ea5f9bb955e0c269b5d9200f16316",
+                                "name": "北京智谷技术服务有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "992ea5f9bb955e0c269b5d9200f16316",
+                                            "name": "北京智谷技术服务有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "p6d7e0b8f1d5f085cef08c25afc20309",
+                                            "name": "刘德"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "监事"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Nodetype": "DJG-HE",
+                        "type": "Company",
+                        "Direction": "OUT",
+                        "Title": "董监高的控股企业",
+                        "Operation": "控制",
+                        "Desc": "董监高的控股企业",
+                        "Abstract": "本公司的董监高的控股企业",
+                        "Total": 138,
+                        "Collection": [
+                            {
+                                "Id": "93377c2302ec9d88aaed10e5bd570241",
+                                "name": "天津拾肆米企业管理合伙企业（有限合伙）",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "93377c2302ec9d88aaed10e5bd570241",
+                                            "name": "天津拾肆米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "23.69%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "3ff2f5c25da6b838ad5b84708e2e72fa",
+                                "name": "泸州数科网维技术有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "3ff2f5c25da6b838ad5b84708e2e72fa",
+                                            "name": "泸州数科网维技术有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.54%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                "name": "天津金星创业投资有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "eb2a43ac472b451059c58357bcef8d9e",
+                                "name": "河南金山办公软件有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "eb2a43ac472b451059c58357bcef8d9e",
+                                            "name": "河南金山办公软件有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.14%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "372c753f7d93786a5b626d1bbc823b6f",
+                                "name": "河南数科网维科技有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "372c753f7d93786a5b626d1bbc823b6f",
+                                            "name": "河南数科网维科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.54%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "620a7ec07335bc24b68e028a540249ed",
+                                "name": "广西金山办公软件有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "620a7ec07335bc24b68e028a540249ed",
+                                            "name": "广西金山办公软件有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "1.14%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8d50cfdfec4430f0cab34d57c265d001",
+                                "name": "小米有品科技有限公司",
+                                "HasImage": true,
+                                "Status": "在业",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8d50cfdfec4430f0cab34d57c265d001",
+                                            "name": "小米有品科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "0.00%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "hbc30819b4c3ba1a8248526d676d300e",
+                                "name": "XIAOMI H.K. LIMITED",
+                                "HasImage": false,
+                                "Status": "",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "hbc30819b4c3ba1a8248526d676d300e",
+                                            "name": "XIAOMI H.K. LIMITED"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "0.00%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "09aba384211cb3bd3e0494649352fce9",
+                                "name": "武汉壹捌壹零企业管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "09aba384211cb3bd3e0494649352fce9",
+                                            "name": "武汉壹捌壹零企业管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "77889e75119621a348adab4be8bddd5a",
+                                "name": "北京小米企业管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "77889e75119621a348adab4be8bddd5a",
+                                            "name": "北京小米企业管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "77.80%"
+                                        },
+                                        {
+                                            "Id": "p1910534b4ae98fea35ddbeb1d61cd44",
+                                            "name": "雷军"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "董事长,经理"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Nodetype": "HE",
+                "type": "Company",
+                "Direction": "OUT",
+                "Title": "子公司",
+                "Operation": "控制",
+                "Desc": "子公司/控股企业",
+                "Abstract": "本公司直接或者间接控制的企业",
+                "Total": 45,
+                "Collection": [
+                    {
+                        "Id": "93377c2302ec9d88aaed10e5bd570241",
+                        "name": "天津拾肆米企业管理合伙企业（有限合伙）",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "93377c2302ec9d88aaed10e5bd570241",
+                                    "name": "天津拾肆米企业管理合伙企业（有限合伙）"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "30.45%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                        "name": "天津金星创业投资有限公司",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                    "name": "天津金星创业投资有限公司"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "100.00%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "09aba384211cb3bd3e0494649352fce9",
+                        "name": "武汉壹捌壹零企业管理有限公司",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "09aba384211cb3bd3e0494649352fce9",
+                                    "name": "武汉壹捌壹零企业管理有限公司"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "100.00%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "77889e75119621a348adab4be8bddd5a",
+                        "name": "北京小米企业管理有限公司",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "77889e75119621a348adab4be8bddd5a",
+                                    "name": "北京小米企业管理有限公司"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "100.00%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                        "name": "南昌黑鲨科技有限公司",
+                        "HasImage": true,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                    "name": "南昌黑鲨科技有限公司"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "46.44%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "1ea557c511d6c06423d0519a364ae0a5",
+                        "name": "天津众米企业管理合伙企业（有限合伙）",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "1ea557c511d6c06423d0519a364ae0a5",
+                                    "name": "天津众米企业管理合伙企业（有限合伙）"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "32.29%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "75000249dc619c03cac6599928003df1",
+                        "name": "湖北小米长江产业基金合伙企业（有限合伙）",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "75000249dc619c03cac6599928003df1",
+                                    "name": "湖北小米长江产业基金合伙企业（有限合伙）"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "0.00%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "29c65382c4c909774939722c3ab07f9f",
+                        "name": "小米汽车科技有限公司",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "29c65382c4c909774939722c3ab07f9f",
+                                    "name": "小米汽车科技有限公司"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "100.00%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "a0ade25aa73877f23e2b302fe0dfddab",
+                        "name": "海南极目创业投资有限公司",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "a0ade25aa73877f23e2b302fe0dfddab",
+                                    "name": "海南极目创业投资有限公司"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "100.00%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Id": "d2c5fa34beddfd4f49be0fb2fe189e85",
+                        "name": "天津壹米企业管理合伙企业（有限合伙）",
+                        "HasImage": false,
+                        "Status": "存续",
+                        "Path": [
+                            [
+                                {
+                                    "Id": "d2c5fa34beddfd4f49be0fb2fe189e85",
+                                    "name": "天津壹米企业管理合伙企业（有限合伙）"
+                                },
+                                {
+                                    "Direction": "OUT",
+                                    "Operation": "控制",
+                                    "Reason": "39.18%"
+                                },
+                                {
+                                    "Id": "9cce0780ab7644008b73bc2120479d31",
+                                    "name": "小米科技有限责任公司"
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "children": [
+                    {
+                        "Nodetype": "HE-BE10",
+                        "type": "Company",
+                        "Direction": "IN",
+                        "Title": "持股10%及以上的企业",
+                        "Operation": "影响",
+                        "Desc": "子公司持股10%及以上的企业",
+                        "Abstract": "直接持股本公司直接或者间接控制的企业10%及以上的企业",
+                        "Total": 13,
+                        "Collection": [
+                            {
+                                "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                "name": "天津金星创业投资有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "35.57%"
+                                        },
+                                        {
+                                            "Id": "ebe2191650db8371d85cee8580ef97f3",
+                                            "name": "天津拾叁米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "35.57%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "20.42%"
+                                        },
+                                        {
+                                            "Id": "d23d545917648f16e43d2205790dfd7b",
+                                            "name": "天津叁米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "20.42%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "be99a4abfa65352286af89d0e9bce7ef",
+                                            "name": "小米产业投资管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "46.44%"
+                                        },
+                                        {
+                                            "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                            "name": "南昌黑鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "46.44%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "30.45%"
+                                        },
+                                        {
+                                            "Id": "93377c2302ec9d88aaed10e5bd570241",
+                                            "name": "天津拾肆米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "30.45%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "34.90%"
+                                        },
+                                        {
+                                            "Id": "5489cb9b77a3131eb2389c9a2bcf8f22",
+                                            "name": "天津柒米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "34.90%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "32.38%"
+                                        },
+                                        {
+                                            "Id": "174af8e329895b0f8dfe045878e657e9",
+                                            "name": "天津拾伍米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "32.38%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "38.31%"
+                                        },
+                                        {
+                                            "Id": "e0f317297440873e1cc0c290bd42e8e1",
+                                            "name": "天津肆米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "38.31%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "55.57%"
+                                        },
+                                        {
+                                            "Id": "2ecb0e4fe5529ce221336bdcd85699f7",
+                                            "name": "天津贰米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "55.57%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "24.07%"
+                                        },
+                                        {
+                                            "Id": "e4e890fcaebdde059dbc91dbb05a9ed1",
+                                            "name": "天津捌米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "24.07%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "54.85%"
+                                        },
+                                        {
+                                            "Id": "5c1505fc8ab6e00932fcccc27a0449c6",
+                                            "name": "天津拾壹米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "54.85%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "39.18%"
+                                        },
+                                        {
+                                            "Id": "d2c5fa34beddfd4f49be0fb2fe189e85",
+                                            "name": "天津壹米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "39.18%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "86.20%"
+                                        },
+                                        {
+                                            "Id": "565ed1dbf641ccd23989d3111d46286c",
+                                            "name": "天津金米投资合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "90.43%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "80.10%"
+                                        },
+                                        {
+                                            "Id": "48ef5404ebd06907c0d01b3fddd8959e",
+                                            "name": "天津未来新视界传媒有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "80.10%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "35.57%"
+                                        },
+                                        {
+                                            "Id": "4e6b4259c82b752b8d9c91afb7502d8a",
+                                            "name": "天津陆米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "35.57%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8bae20d34ab99d9f07d046caa4d422d3",
+                                            "name": "天津金星创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "35.43%"
+                                        },
+                                        {
+                                            "Id": "f3325e4fc8862b4aedd87c97b7e290c5",
+                                            "name": "天津伍米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "35.43%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "3af493071446abe133b3a1ad0884117c",
+                                "name": "长江产业投资基金管理有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "3af493071446abe133b3a1ad0884117c",
+                                            "name": "长江产业投资基金管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "15.00%"
+                                        },
+                                        {
+                                            "Id": "8aab7f9b6a41da4aba1fed32acd85cee",
+                                            "name": "湖北小米长江产业投资基金管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "80.00%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                "name": "南昌黑鲨科技有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                            "name": "南昌黑鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "640de38d9a4347eb6dafb0cc45d5d487",
+                                            "name": "南京雷鲨信息科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "46.44%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                            "name": "南昌黑鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "18836c5816335d832b0fde6a07121488",
+                                            "name": "深圳阿而法科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "46.44%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                            "name": "南昌黑鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "a9187fccc35b7a46c67c7dde3927659c",
+                                            "name": "南昌银鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "46.44%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                            "name": "南昌黑鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "3522fcbf4c4bc228821f9d31d1a131cc",
+                                            "name": "上海众链科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "46.44%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                            "name": "南昌黑鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "95.24%"
+                                        },
+                                        {
+                                            "Id": "33b16a08852d68fa2f3e2530e8add813",
+                                            "name": "深圳市灰鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "44.22%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "38ae095f82b57b1fb9e450f6881a0b52",
+                                            "name": "南昌黑鲨科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "h144dddb9ba940bacbf9168f11286b5d",
+                                            "name": "BLACKSHARK H.K LIMITED"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "46.44%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "1ea557c511d6c06423d0519a364ae0a5",
+                                "name": "天津众米企业管理合伙企业（有限合伙）",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "1ea557c511d6c06423d0519a364ae0a5",
+                                            "name": "天津众米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "13.80%"
+                                        },
+                                        {
+                                            "Id": "565ed1dbf641ccd23989d3111d46286c",
+                                            "name": "天津金米投资合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "90.43%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "75000249dc619c03cac6599928003df1",
+                                "name": "湖北小米长江产业基金合伙企业（有限合伙）",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "75000249dc619c03cac6599928003df1",
+                                            "name": "湖北小米长江产业基金合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "99.59%"
+                                        },
+                                        {
+                                            "Id": "3f6fc061939713beac9679ee2886cc0f",
+                                            "name": "上海籽月企业管理咨询合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "0.32%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "75000249dc619c03cac6599928003df1",
+                                            "name": "湖北小米长江产业基金合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "99.01%"
+                                        },
+                                        {
+                                            "Id": "3ec4bafa7330927f319b21d846f09f21",
+                                            "name": "湖北嘉月股权投资合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "0.79%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "ad2694b03a4f32e4703568147a438c49",
+                                "name": "天津拾米企业管理合伙企业（有限合伙）",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "ad2694b03a4f32e4703568147a438c49",
+                                            "name": "天津拾米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "10.53%"
+                                        },
+                                        {
+                                            "Id": "1ea557c511d6c06423d0519a364ae0a5",
+                                            "name": "天津众米企业管理合伙企业（有限合伙）"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "32.29%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "9ee5af5024381e54f545affce1e490f2",
+                                "name": "北京聚爱聊网络科技有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "9ee5af5024381e54f545affce1e490f2",
+                                            "name": "北京聚爱聊网络科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "0a61334ea899fb3121b6536095e9e8db",
+                                            "name": "北京小蚁互动网络科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "9ee5af5024381e54f545affce1e490f2",
+                                            "name": "北京聚爱聊网络科技有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "b776cd768c95794fe670c4e73c214aed",
+                                            "name": "成都分享信息传播有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "be99a4abfa65352286af89d0e9bce7ef",
+                                "name": "小米产业投资管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "be99a4abfa65352286af89d0e9bce7ef",
+                                            "name": "小米产业投资管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "80.00%"
+                                        },
+                                        {
+                                            "Id": "8aab7f9b6a41da4aba1fed32acd85cee",
+                                            "name": "湖北小米长江产业投资基金管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "80.00%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "497417a5f8bae92749059589eabb9143",
+                                "name": "未来电视有限公司",
+                                "HasImage": true,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "497417a5f8bae92749059589eabb9143",
+                                            "name": "未来电视有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "19.90%"
+                                        },
+                                        {
+                                            "Id": "48ef5404ebd06907c0d01b3fddd8959e",
+                                            "name": "天津未来新视界传媒有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "80.10%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Id": "8d023c76910257c23f4cf6ce79a631aa",
+                                "name": "小米私募股权基金管理有限公司",
+                                "HasImage": false,
+                                "Status": "存续",
+                                "Path": [
+                                    [
+                                        {
+                                            "Id": "8d023c76910257c23f4cf6ce79a631aa",
+                                            "name": "小米私募股权基金管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "a0ade25aa73877f23e2b302fe0dfddab",
+                                            "name": "海南极目创业投资有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Id": "8d023c76910257c23f4cf6ce79a631aa",
+                                            "name": "小米私募股权基金管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "IN",
+                                            "Operation": "影响",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "77889e75119621a348adab4be8bddd5a",
+                                            "name": "北京小米企业管理有限公司"
+                                        },
+                                        {
+                                            "Direction": "OUT",
+                                            "Operation": "控制",
+                                            "Reason": "100.00%"
+                                        },
+                                        {
+                                            "Id": "9cce0780ab7644008b73bc2120479d31",
+                                            "name": "小米科技有限责任公司"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
